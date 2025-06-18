@@ -1,15 +1,11 @@
 {
-  "name": "practica-01",
+  "name": "hola-mundo",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Proyecto Hola Mundo para GitHub Pages",
+  "main": "index.html",
   "scripts": {
-    "test": "nodemon index"
+    "start": "echo \"No hay scripts definidos\""
   },
-  "author": "Juan Martinez 319185391",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^5.1.0",
-    "nodemon": "^3.1.10"
-  }
+  "author": "Juan Martinez - Boleta: 319185391 - juanmartinez91@aragon.unam.mx",
+  "license": "ISC"
 }
